@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SuaiLab2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="url_field">url</string>
+
+    <string name="value_field">value</string>
+
+    <string name="send_button">send</string>
+    <string name="get_button">get saved values</string>
+
+    <string name="exception_message">Error while sending value</string>
+
+
+
+
+
+</resources>
